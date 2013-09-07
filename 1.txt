@@ -1,0 +1,2 @@
+di aaa as single bb as variant,, as integer
+di asd

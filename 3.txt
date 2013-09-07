@@ -1,0 +1,2 @@
+dim &aaa as string, asd bbbb, integer
+@dim abc, abb

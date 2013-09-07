@@ -1,0 +1,3 @@
+asd, asdf
+dim as single, abc as string, bbb as sing
+dim a, b c as variant
